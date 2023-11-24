@@ -20,7 +20,7 @@
     "moralis-websocket": "git://github.com/MoralisWeb3/WebSocket-Node"
   },
   "devDependencies": {
-    "dtslint": "^3.4.1",
+    "dtslint": "^3.7.0",
     "typescript": "^3.9.5"
   }
 }
